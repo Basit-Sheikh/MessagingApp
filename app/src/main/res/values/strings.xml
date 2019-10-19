@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Messaging App</string>
+    <string name="appbar_scrolling_view_behavior" />
 </resources>
